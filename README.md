@@ -17,3 +17,8 @@
 
 **Today's Progress**: Working on Advance login page<br>
                       Link for the Repo. - https://github.com/kunalsharmaks/301DaysOfCode/tree/main/Responsive%20basic%20login
+                      
+ ### Day 4: Nov 7, 2020
+
+**Today's Progress**: Creating Responsive login page<br>
+                      Link for the Repo. - https://github.com/kunalsharmaks/301DaysOfCode/tree/main/Responsive%20basic%20login
