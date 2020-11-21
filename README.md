@@ -22,3 +22,8 @@
 
 **Today's Progress**: Transparent web page<br>
                       Link for the Repo. - https://github.com/kunalsharmaks/301DaysOfCode/tree/main/transparent%20login%20pg
+                      
+### Day 5: Nov 21, 2020
+
+**Today's Progress**: After long vacation back to the front end development  create registration page<br>
+                      Link for the Repo. - https://github.com/kunalsharmaks/301DaysOfCode/tree/main/transparent%20login%20pg
