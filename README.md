@@ -35,7 +35,7 @@
                       
  ### Day 7: Nov 24, 2020
 
-**Today's Progress**: Creating self resume in HTML CSS<br>
+**Today's Progress**: Creating self resume in HTML CSS<br> Design resume layout<br>
                     
                       
                       
