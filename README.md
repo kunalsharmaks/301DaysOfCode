@@ -37,5 +37,9 @@
 
 **Today's Progress**: Creating self resume in HTML CSS<br> Design resume layout<br>
                     
+                    
+  ### Day 8: Nov 25, 2020
+
+**Today's Progress**: Working on HTML CSS Basic home page<br> 
                       
                       
