@@ -40,6 +40,6 @@
                     
   ### Day 8: Nov 25, 2020
 
-**Today's Progress**: Working on HTML CSS Basic home page<br> 
+**Today's Progress**: Working on HTML CSS Basic home page<br>  Creating External CSS style file and designed as per user requirement <br>
                       
                       
