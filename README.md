@@ -45,6 +45,6 @@
 
   ### Day 9: Nov 27, 2020
 
-**Today's Progress**: Finishing home page style css<br>  Creating External CSS style file and designed as per user requirement <br>
+**Today's Progress**: Finishing home page style css<br>  Almost done front-end of basic web page <br>
                       
                       
