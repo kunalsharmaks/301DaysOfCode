@@ -46,5 +46,9 @@
   ### Day 9: Nov 27, 2020
 
 **Today's Progress**: Finishing home page style css<br>  Almost done front-end of basic web page <br>
+
+  ### Day 10: Nov 29, 2020
+
+**Today's Progress**: Finishing home page style css<br>  Almost done front-end of basic web page <br>
                       
                       
