@@ -59,5 +59,5 @@
                       
    ### Day 12: Dec 1, 2020
 
-**Today's Progress**: Learning the linking between web pages through HTML CSS<br> Creating multiple web page for th linking <br>
+**Today's Progress**: Learning the linking between web pages through HTML CSS<br> Creating multiple web page for  linking <br> Link multiple pages in our Index pr Home page <br>
                       
