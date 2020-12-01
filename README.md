@@ -57,7 +57,7 @@
 **Today's Progress**: Designing header and footer of website<br> Created interface of home page <br>
                       
                       
-    ### Day 12: Dec 1, 2020
+   ### Day 12: Dec 1, 2020
 
-**Today's Progress**: Learning the linking between web pages through HTML CSS<br> Created interface of home page <br>
+**Today's Progress**: Learning the linking between web pages through HTML CSS<br> Creating multiple web page for th linking <br>
                       
