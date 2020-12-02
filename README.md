@@ -62,8 +62,8 @@
 **Today's Progress**: Learning the linking between web pages through HTML CSS<br> Creating multiple web page for  linking <br> Link multiple pages in our Index pr Home page <br>
    
    
-   ### Day 12: Dec 2, 2020
+   ### Day 13: Dec 2, 2020
 
-**Today's Progress**: Learning bootstrap for responsive website <br> Impliment some attributes from booṭstrap4 in webpage <br> Link multiple pages in our Index pr Home page <br>
+**Today's Progress**: Learning bootstrap for responsive website <br> Implement some attributes from booṭstrap4 in webpage <br> learning more attributes classes from Bootstraap 3 <br>
                       
 
