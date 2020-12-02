@@ -64,6 +64,6 @@
    
    ### Day 12: Dec 2, 2020
 
-**Today's Progress**: Learning bootstrap for responsive web site <br> Creating multiple web page for  linking <br> Link multiple pages in our Index pr Home page <br>
+**Today's Progress**: Learning bootstrap for responsive website <br> Impliment some attributes from booṭstrap4 in webpage <br> Link multiple pages in our Index pr Home page <br>
                       
 
