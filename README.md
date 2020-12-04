@@ -68,7 +68,7 @@
 
 
    
-   ### Day 14: Dec 3, 2020
+   ### Day 14: Dec 4, 2020
 
 **Today's Progress**: Learning bootstrap for responsive website <br> Implement some attributes from booṭstrap4 in webpage <br> learning more attributes classes from Bootstraap 3 <br>
 
