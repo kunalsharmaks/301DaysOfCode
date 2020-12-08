@@ -88,7 +88,7 @@
 **Today's Progress**: PENDINGGG<br>
 
 
-   ### Day 17: Dec 7, 2020
+   ### Day 18: Dec 8, 2020
 
 **Today's Progress**: PENDINGGG<br>
 
