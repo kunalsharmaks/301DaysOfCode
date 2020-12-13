@@ -94,6 +94,7 @@
 
 
 
+
    ### Day 19: Dec 10, 2020
 
 **Today's Progress**: PENDINGGG<br>
@@ -108,4 +109,9 @@
    ### Day 21: Dec 12, 2020
 
 **Today's Progress**: PENDINGGG <br>
+
+
+   ### Day 12: Dec 8, 2020
+
+**Today's Progress**: PENDINGGG<br>
 
