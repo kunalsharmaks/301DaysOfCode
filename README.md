@@ -144,6 +144,10 @@
 
 **Today's Progress**: PENDINGGG<br>
 
-   ### Day 23: Dec 24, 2020
+   ### Day 29: Dec 24, 2020
+
+**Today's Progress**: PENDINGGG<br>
+
+   ### Day 30: Dec 25, 2020
 
 **Today's Progress**: PENDINGGG<br>
