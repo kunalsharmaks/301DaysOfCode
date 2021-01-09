@@ -168,3 +168,7 @@
    ### Day 34: Jan 02, 2020
 
 **Today's Progress**: PENDINGGG<br>
+
+   ### Day 35: Jan 09, 2020
+
+**Today's Progress**: PENDINGGG<br>
