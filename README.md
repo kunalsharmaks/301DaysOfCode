@@ -177,3 +177,7 @@
    ### Day 36: Jan 11, 2020
 
 **Today's Progress**: PENDINGGG<br>
+
+   ### Day 37: Jan 12, 2020
+
+**Today's Progress**: PENDINGGG<br>
