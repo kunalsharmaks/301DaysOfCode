@@ -191,6 +191,6 @@
 
 **Today's Progress**: PENDINGGG<br>
 
-   ### Day 40: Jan 14, 2020
+   ### Day 40: Jan 15, 2020
 
 **Today's Progress**: PENDINGGG<br>
