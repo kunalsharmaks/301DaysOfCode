@@ -195,6 +195,6 @@
 
 **Today's Progress**: PENDINGGG<br>
 
-   ### Day 41: Jan 15, 2020
+   ### Day 41: Jan 16, 2020
 
 **Today's Progress**: PENDINGGG<br>
