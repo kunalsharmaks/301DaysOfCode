@@ -207,3 +207,7 @@
    ### Day 43: Jan 18, 2020
 
 **Today's Progress**: PENDINGG<br>
+
+   ### Day 44: Jan 25, 2020
+
+**Today's Progress**: PENDINGG<br>
