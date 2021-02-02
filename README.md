@@ -70,96 +70,96 @@
    
    ### Day 14: Dec 4, 2020
 
-**Today's Progress**:PENDINGGG <br>
+**Today's Progress**:learn bootstrap 3 and 4 diffrence<br>
 
 
    ### Day 15: Dec 5, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: implement some classes of bootstrap in web pages<br>
       
  
    ### Day 16: Dec 6, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: test many classes of bootstrap<br>
 
 
    ### Day 17: Dec 7, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: learn how to create layout<br>
 
 
    ### Day 18: Dec 8, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: implement layout<br>
 
 
 
    ### Day 19: Dec 10, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: implement layout in static  website<br>
 
 
 
    ### Day 20: Dec 11, 2020
 
-**Today's Progress**: PENDINGGG <br>
+**Today's Progress**: learn bootstrap design classes <br>
 
 
    ### Day 21: Dec 12, 2020
 
-**Today's Progress**: PENDINGGG <br>
+**Today's Progress**: implement bootstrap design classes in static website <br>
 
 
    ### Day 22: Dec 13, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: introduction of java script<br>
 
 
    ### Day 23: Dec 16, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: learning java script<br>
 
 
 
    ### Day 24: Dec 17, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: learning java script<br>
 
 
    ### Day 25: Dec 18, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: learning java script<br>
 
 
    ### Day 26: Dec 19, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: learning java script<br>
 
 
    ### Day 27: Dec 20, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: implement java script<br>
 
    ### Day 28: Dec 22, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**:  implement java script in static website<br>
 
    ### Day 29: Dec 24, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: know some java script libraries<br>
 
 
    ### Day 30: Dec 25, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: learning jquery<br>
 
    ### Day 31: Dec 26, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: learning jquery<br>
 
    ### Day 32: Dec 28, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: implement jquery<br>
 
    ### Day 33: Dec 29, 2020
 
