@@ -163,85 +163,85 @@
 
    ### Day 33: Dec 29, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: learning JSON<br>
 
    ### Day 34: Jan 02, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: learning JSON<br>
 
    ### Day 35: Jan 09, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: implementing JSON<br>
 
 
    ### Day 36: Jan 11, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: implementing JSON in static web site<br>
 
    ### Day 37: Jan 12, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: Learning AJAX<br>
 
    ### Day 38: Jan 13, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: Learning AJAX<br>
 
 
    ### Day 39: Jan 14, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: implement AJAX<br>
 
    ### Day 40: Jan 15, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: implement AJAX in static web site<br>
 
    ### Day 41: Jan 16, 2020
 
-**Today's Progress**: PENDINGGG<br>
+**Today's Progress**: learning react<br>
 
 
    ### Day 42: Jan 17, 2020
 
-**Today's Progress**: PENDINGG<br>
+**Today's Progress**: trying to implement react<br>
 
    ### Day 43: Jan 18, 2020
 
-**Today's Progress**: PENDINGG<br>
+**Today's Progress**:implementing react<br>
 
    ### Day 44: Jan 26, 2020
 
-**Today's Progress**: PENDINGG<br>
+**Today's Progress**: after a break revising previous topics<br>
 
    ### Day 45: Jan 27, 2020
 
-**Today's Progress**: PENDINGG<br>
+**Today's Progress**: learning angularJS<br>
 
 
    ### Day 46: Jan 28, 2020
 
-**Today's Progress**: PENDINGG<br>
+**Today's Progress**: learning angularJS<br>
 
 
    ### Day 47: Jan 29, 2020
 
-**Today's Progress**: PENDINGG<br>
+**Today's Progress**: learning angularJS<br>
 
    ### Day 48: Jan 30, 2020
 
-**Today's Progress**: PENDINGG<br>
+**Today's Progress**: trying to implement angularJS<br>
 
 
    ### Day 49: Jan 31, 2020
 
-**Today's Progress**: PENDINGG<br>
+**Today's Progress**: trying to understand blockchain<br>
 
 
    ### Day 50: feb 01, 2020
 
-**Today's Progress**: PENDINGG<br>
+**Today's Progress**: trying to understand how blockchain algorithm works<br>
 
 
    ### Day 51: feb 02, 2020
 
-**Today's Progress**: PENDINGG<br>
+**Today's Progress**: trying to understand how bitcoin use blockchain algorithm<br>
 
