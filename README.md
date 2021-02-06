@@ -245,6 +245,12 @@
 
 **Today's Progress**: trying to understand how bitcoin use blockchain algorithm<br>
 
+
    ### Day 52: feb 03, 2020
 
 **Today's Progress**: trying to understand how bitcoin use blockchain algorithm<br>
+
+
+   ### Day 53: feb 06, 2020
+
+**Today's Progress**: wprking on college minor projects<br>
