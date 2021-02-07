@@ -254,3 +254,8 @@
    ### Day 53: feb 06, 2020
 
 **Today's Progress**: working on college minor projects<br>
+
+
+   ### Day 53: feb 06, 2020
+
+**Today's Progress**: working on college minor projects<br>
