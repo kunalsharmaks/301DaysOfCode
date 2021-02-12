@@ -281,6 +281,6 @@
 
 **Today's Progress**: working on college minor projects<br>
 
-   ### Day 59: feb 11, 2020
+   ### Day 59: feb 12, 2020
 
 **Today's Progress**: working on college minor projects<br>
