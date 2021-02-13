@@ -288,6 +288,6 @@
 
 
 
-   ### Day 59: feb 12, 2020
+   ### Day 60: feb 13, 2020
 
 **Today's Progress**: working on college minor projects<br>
