@@ -304,7 +304,7 @@
 **Today's Progress**: working on college minor projects<br>
 
 
-   ### Day 63: feb 1, 2020
+   ### Day 63: feb 16, 2020
 
 **Today's Progress**: working on college minor projects<br>
 
