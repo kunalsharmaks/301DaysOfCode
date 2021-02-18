@@ -313,3 +313,9 @@
 
 **Today's Progress**: working on college minor projects<br>
 
+
+
+   ### Day 64: feb 17, 2020
+
+**Today's Progress**: working on college minor projects<br>
+
