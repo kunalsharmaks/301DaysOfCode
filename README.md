@@ -319,3 +319,8 @@
 
 **Today's Progress**: working on college minor projects<br>
 
+
+   ### Day 65: feb 18, 2020
+
+**Today's Progress**: working on college minor projects<br>
+
