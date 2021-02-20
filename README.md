@@ -326,3 +326,9 @@
 
 
 
+   ### Day 66: feb 19, 2020
+
+**Today's Progress**: working on college minor projects<br>
+
+
+
