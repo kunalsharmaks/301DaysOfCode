@@ -337,6 +337,6 @@
 
 
 
-   ### Day 69: feb 21, 2020
+   ### Day 69: feb 22, 2020
 
 **Today's Progress**: working on college minor projects<br>
