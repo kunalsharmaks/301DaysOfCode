@@ -342,6 +342,6 @@
 **Today's Progress**: working on college minor projects<br>
 
 
-   ### Day 79: feb 22, 2020
+   ### Day 70: feb 22, 2020
 
 **Today's Progress**: working on college minor projects<br>
