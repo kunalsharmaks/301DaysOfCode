@@ -351,3 +351,8 @@
    ### Day 71: feb 24, 2020
 
 **Today's Progress**: working on college minor projects<br>
+
+
+   ### Day 71: feb 24, 2020
+
+**Today's Progress**: working on college minor projects<br>
