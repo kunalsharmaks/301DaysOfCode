@@ -365,3 +365,7 @@
    ### Day 73: feb 26, 2020
 
 **Today's Progress**: working on college minor projects<br>
+
+   ### Day 73: feb 26, 2020
+
+**Today's Progress**: working on college minor projects<br>
