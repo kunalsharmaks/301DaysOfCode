@@ -374,6 +374,6 @@
 
 
 
-   ### Day 74: feb 27, 2020
+   ### Day 75: feb 27, 2020
 
 **Today's Progress**: working on college minor projects<br>
