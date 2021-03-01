@@ -380,6 +380,6 @@
 
 
 
-   ### Day 76: march 28, 2020
+   ### Day 76: march 01, 2020
 
 **Today's Progress**: working on college minor projects<br>
