@@ -392,6 +392,6 @@
 
 
 
-   ### Day 77: march 02, 2020
+   ### Day 7: march 02, 2020
 
 **Today's Progress**: working on college minor projects<br>
