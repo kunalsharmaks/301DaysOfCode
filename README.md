@@ -411,6 +411,6 @@
 
 
 
-   ### Day 81: march 06, 2020
+   ### Day 81: march 07, 2020
 
 **Today's Progress**: working on college minor projects<br>
