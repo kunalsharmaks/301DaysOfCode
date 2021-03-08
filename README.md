@@ -417,6 +417,6 @@
 
 
 
-   ### Day 82: march 07, 2020
+   ### Day 82: march 08, 2020
 
 **Today's Progress**: working on college minor projects<br>
