@@ -447,7 +447,6 @@
 
 
 
-
    ### Day 86: march 12, 2020
 
 **Today's Progress**: working on college minor projects<br>
