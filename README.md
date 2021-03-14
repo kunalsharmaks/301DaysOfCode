@@ -453,6 +453,6 @@
 
 
 
-   ### Day 88: march 13, 2020
+   ### Day 88: march 14, 2020
 
 **Today's Progress**: working on college minor projects<br>
