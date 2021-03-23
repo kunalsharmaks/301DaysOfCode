@@ -507,3 +507,10 @@
 ** J S **
 
 
+
+   ### Day 97: march 23, 2020
+
+**Today's Progress**: working on college minor projects<br>
+
+
+
