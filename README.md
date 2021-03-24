@@ -496,16 +496,17 @@
 
 ### DAY 95: MARCH 21ST,2021
 
-** LOST EVERYTHINGH **
-** J S **
 
 
 
 ### DAY 96: MARCH 22ND,2021
 
-** LOST EVERYTHINGH **
-** J S **
 
+
+
+   ### Day 97: march 23, 2020
+
+**Today's Progress**: working on college minor projects<br>
 
 
    ### Day 97: march 23, 2020
