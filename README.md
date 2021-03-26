@@ -523,7 +523,7 @@
 
 
 
-   ### Day 109: march 25, 2020
+   ### Day 100: march 25, 2020
 
 **Today's Progress**: working on college minor projects<br>
 
