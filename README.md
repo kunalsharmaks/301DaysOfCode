@@ -529,8 +529,7 @@
 
 
 
-
-   ### Day 100: march 26, 2020
+   ### Day 101: march 27, 2020
 
 **Today's Progress**: working on college minor projects<br>
 
