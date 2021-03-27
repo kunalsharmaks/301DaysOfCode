@@ -528,3 +528,10 @@
 **Today's Progress**: working on college minor projects<br>
 
 
+
+
+   ### Day 100: march 26, 2020
+
+**Today's Progress**: working on college minor projects<br>
+
+
