@@ -558,3 +558,9 @@
 **Today's Progress**: working on college minor projects<br>
 
 
+
+   ### Day 106: April 01, 2021
+
+**Today's Progress**: working on college minor projects<br>
+
+
