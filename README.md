@@ -311,78 +311,78 @@
 
    ### Day 64: feb 17, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: introduction to machine learning<br>
 
 
 
    ### Day 65: feb 18, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: introduction to machine learning<br>
 
 
 
    ### Day 66: feb 19, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Machine Learning<br>
 
 
 
    ### Day 67: feb 20, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Machine Learning<br>
 
 
    ### Day 68: feb 21, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Machine Learning<br>
 
 
 
    ### Day 69: feb 22, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Machine Learning<br>
 
 
 
    ### Day 70: feb 23, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Supervised Machine Learning<br>
 
 
 
    ### Day 71: feb 24, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**:  Supervised Machine Learning<br>
 
 
 
    ### Day 72: feb 25, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**:  unsupervised Machine Learning<br>
 
 
 
    ### Day 73: feb 26, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: unsupervised Machine Learning<br>
 
 
 
    ### Day 74: feb 27, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Exploring machine learning projects<br>
 
 
 
    ### Day 75: feb 28, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Exploring machine learning projects<br>
 
 
 
    ### Day 76: march 01, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Exploring machine learning projects<br>
 
 
 
@@ -443,55 +443,55 @@
 
    ### Day 86: march 12, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on aptitude<br>
 
 
 
    ### Day 87: march 13, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on aptitude<br>
 
 
 
    ### Day 88: march 14, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on aptitude<br>
 
 
 
    ### Day 89: march 15, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on aptitude<br>
 
 
 
    ### Day 90: march 16, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on aptitude<br>
 
 
 
    ### Day 91: march 17, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Reading article on how IT sectors help medical sectors<br>
 
 
 
    ### Day 92: march 18, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Reading article on how IT sectors help medical sectors<br>
 
 
 
    ### Day 93: march 19, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Reading article on how IT sectors help medical sectors<br>
 
 
 
    ### Day 94: march 20, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: Reading article on how IT sectors help medical sectors<br>
 
 
 ### DAY 95: MARCH 21ST,2021
@@ -506,61 +506,67 @@
 
    ### Day 97: march 23, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on pharmacy projects<br>
 
 
 
    ### Day 98: march 24, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on pharmacy projects<br>
 
 
 
 
    ### Day 99: march 25, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on pharmacy projects<br>
 
 
 
    ### Day 100: march 26, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on pharmacy projects<br>
 
 
 
    ### Day 101: march 27, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on pharmacy projects<br>
 
 
 
    ### Day 102: march 28, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on pharmacy projects<br>
 
 
 
    ### Day 103: march 29, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on pharmacy projects<br>
 
 
 
    ### Day 104: march 30, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on pharmacy projects<br>
 
 
 
    ### Day 105: march 31, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on pharmacy projects<br>
 
 
 
    ### Day 106: April 01, 2021
 
-**Today's Progress**: working on college minor projects<br>
+**Today's Progress**: working on pharmacy projects<br>
+
+
+
+   ### Day 107: April 10, 2021
+
+**Today's Progress**: working on pharmacy projects<br>
 
 
