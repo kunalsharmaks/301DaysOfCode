@@ -165,331 +165,331 @@
 
 **Today's Progress**: learning JSON<br>
 
-   ### Day 34: Jan 02, 2020
+   ### Day 34: Jan 02, 2021
 
 **Today's Progress**: learning JSON<br>
 
-   ### Day 35: Jan 09, 2020
+   ### Day 35: Jan 09, 2021
 
 **Today's Progress**: implementing JSON<br>
 
 
-   ### Day 36: Jan 11, 2020
+   ### Day 36: Jan 11, 2021
 
 **Today's Progress**: implementing JSON in static web site<br>
 
-   ### Day 37: Jan 12, 2020
+   ### Day 37: Jan 12, 2021
 
 **Today's Progress**: Learning AJAX<br>
 
-   ### Day 38: Jan 13, 2020
+   ### Day 38: Jan 13, 2021
 
 **Today's Progress**: Learning AJAX<br>
 
 
-   ### Day 39: Jan 14, 2020
+   ### Day 39: Jan 14, 2021
 
 **Today's Progress**: implement AJAX<br>
 
-   ### Day 40: Jan 15, 2020
+   ### Day 40: Jan 15, 2021
 
 **Today's Progress**: implement AJAX in static web site<br>
 
-   ### Day 41: Jan 16, 2020
+   ### Day 41: Jan 16, 2021
 
 **Today's Progress**: learning react<br>
 
 
-   ### Day 42: Jan 17, 2020
+   ### Day 42: Jan 17, 2021
 
 **Today's Progress**: trying to implement react<br>
 
-   ### Day 43: Jan 18, 2020
+   ### Day 43: Jan 18, 2021
 
 **Today's Progress**:implementing react<br>
 
-   ### Day 44: Jan 26, 2020
+   ### Day 44: Jan 26, 2021
 
 **Today's Progress**: after a break revising previous topics<br>
 
-   ### Day 45: Jan 27, 2020
+   ### Day 45: Jan 27, 2021
 
 **Today's Progress**: learning angularJS<br>
 
 
-   ### Day 46: Jan 28, 2020
+   ### Day 46: Jan 28, 2021
 
 **Today's Progress**: learning angularJS<br>
 
 
-   ### Day 47: Jan 29, 2020
+   ### Day 47: Jan 29, 2021
 
 **Today's Progress**: learning angularJS<br>
 
-   ### Day 48: Jan 30, 2020
+   ### Day 48: Jan 30, 2021
 
 **Today's Progress**: trying to implement angularJS<br>
 
 
-   ### Day 49: Jan 31, 2020
+   ### Day 49: Jan 31, 2021
 
 **Today's Progress**: trying to understand blockchain<br>
 
 
-   ### Day 50: feb 01, 2020
+   ### Day 50: feb 01, 2021
 
 **Today's Progress**: trying to understand how blockchain algorithm works<br>
 
 
-   ### Day 51: feb 02, 2020
+   ### Day 51: feb 02, 2021
 
 **Today's Progress**: trying to understand how bitcoin use blockchain algorithm<br>
 
 
-   ### Day 52: feb 03, 2020
+   ### Day 52: feb 03, 2021
 
 **Today's Progress**: trying to understand how bitcoin use blockchain algorithm<br>
 
 
-   ### Day 53: feb 06, 2020
+   ### Day 53: feb 06, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
-   ### Day 54: feb 07, 2020
+   ### Day 54: feb 07, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
-   ### Day 55: feb 08, 2020
-
-**Today's Progress**: working on college minor projects<br>
-
-
-
-   ### Day 56: feb 09, 2020
-
-**Today's Progress**: working on college minor projects<br>
-
-
-   ### Day 57: feb 10, 2020
-
-**Today's Progress**: working on college minor projects<br>
-
-
-   ### Day 58: feb 11, 2020
-
-**Today's Progress**: working on college minor projects<br>
-
-
-   ### Day 59: feb 12, 2020
+   ### Day 55: feb 08, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 60: feb 13, 2020
+   ### Day 56: feb 09, 2021
+
+**Today's Progress**: working on college minor projects<br>
+
+
+   ### Day 57: feb 10, 2021
+
+**Today's Progress**: working on college minor projects<br>
+
+
+   ### Day 58: feb 11, 2021
+
+**Today's Progress**: working on college minor projects<br>
+
+
+   ### Day 59: feb 12, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 61: feb 14, 2020
-
-**Today's Progress**: working on college minor projects<br>
-
-
-   ### Day 62: feb 15, 2020
-
-**Today's Progress**: working on college minor projects<br>
-
-
-   ### Day 63: feb 16, 2020
-
-**Today's Progress**: working on college minor projects<br>
-
-
-   ### Day 64: feb 17, 2020
+   ### Day 60: feb 13, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 65: feb 18, 2020
+   ### Day 61: feb 14, 2021
+
+**Today's Progress**: working on college minor projects<br>
+
+
+   ### Day 62: feb 15, 2021
+
+**Today's Progress**: working on college minor projects<br>
+
+
+   ### Day 63: feb 16, 2021
+
+**Today's Progress**: working on college minor projects<br>
+
+
+   ### Day 64: feb 17, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 66: feb 19, 2020
+   ### Day 65: feb 18, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 67: feb 20, 2020
-
-**Today's Progress**: working on college minor projects<br>
-
-
-   ### Day 68: feb 21, 2020
+   ### Day 66: feb 19, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 69: feb 22, 2020
+   ### Day 67: feb 20, 2021
+
+**Today's Progress**: working on college minor projects<br>
+
+
+   ### Day 68: feb 21, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 70: feb 23, 2020
+   ### Day 69: feb 22, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 71: feb 24, 2020
+   ### Day 70: feb 23, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 72: feb 25, 2020
+   ### Day 71: feb 24, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 73: feb 26, 2020
+   ### Day 72: feb 25, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 74: feb 27, 2020
+   ### Day 73: feb 26, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 75: feb 28, 2020
+   ### Day 74: feb 27, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 76: march 01, 2020
+   ### Day 75: feb 28, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 77: march 02, 2020
+   ### Day 76: march 01, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 78: march 03, 2020
+   ### Day 77: march 02, 2021
+
+**Today's Progress**: working on college minor projects<br>
+
+
+
+   ### Day 78: march 03, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
 
-   ### Day 79: march 05, 2020
+   ### Day 79: march 05, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 80: march 06, 2020
+   ### Day 80: march 06, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 81: march 07, 2020
+   ### Day 81: march 07, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 82: march 08, 2020
+   ### Day 82: march 08, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 83: march 09, 2020
+   ### Day 83: march 09, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 84: march 10, 2020
+   ### Day 84: march 10, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 85: march 11, 2020
+   ### Day 85: march 11, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 86: march 12, 2020
+   ### Day 86: march 12, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 87: march 13, 2020
+   ### Day 87: march 13, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 88: march 14, 2020
+   ### Day 88: march 14, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 89: march 15, 2020
+   ### Day 89: march 15, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 90: march 16, 2020
+   ### Day 90: march 16, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 91: march 17, 2020
+   ### Day 91: march 17, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 92: march 18, 2020
+   ### Day 92: march 18, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 93: march 19, 2020
+   ### Day 93: march 19, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 94: march 20, 2020
+   ### Day 94: march 20, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
@@ -504,56 +504,56 @@
 
 
 
-   ### Day 97: march 23, 2020
+   ### Day 97: march 23, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 98: march 24, 2020
+   ### Day 98: march 24, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
 
-   ### Day 99: march 25, 2020
+   ### Day 99: march 25, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 100: march 26, 2020
+   ### Day 100: march 26, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 101: march 27, 2020
+   ### Day 101: march 27, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 102: march 28, 2020
+   ### Day 102: march 28, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 103: march 29, 2020
+   ### Day 103: march 29, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 104: march 30, 2020
+   ### Day 104: march 30, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
 
 
-   ### Day 105: march 31, 2020
+   ### Day 105: march 31, 2021
 
 **Today's Progress**: working on college minor projects<br>
 
