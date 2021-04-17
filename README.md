@@ -607,7 +607,7 @@
 
 
 
-   ### Day 114: April 16, 2021
+   ### Day 114: April 17, 2021
 
 **Today's Progress**: Revising JavaScript<br>
 
