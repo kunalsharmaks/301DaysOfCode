@@ -619,7 +619,7 @@
 
 
 
-   ### Day 116: April 18, 2021
+   ### Day 116: April 1, 2021
 
 **Today's Progress**: Revising JavaScript<br>
 
