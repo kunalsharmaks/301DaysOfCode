@@ -619,7 +619,7 @@
 
 
 
-   ### Day 115: April 18, 2021
+   ### Day 11: April 18, 2021
 
 **Today's Progress**: Revising JavaScript<br>
 
