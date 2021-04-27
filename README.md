@@ -635,3 +635,9 @@
 
 **Today's Progress**: Revising JavaScript<br>
 
+
+
+   ### Day 118: April 26, 2021
+
+**Today's Progress**: Revising JavaScript<br>
+
