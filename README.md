@@ -669,4 +669,4 @@
 
    ### Day 124: may 20, 2021
 
-**Today's Progress**:   Working on college minor project<br>
+**Today's Progress**:   Learning Introduction of dot net<br>
