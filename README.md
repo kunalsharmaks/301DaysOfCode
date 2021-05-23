@@ -669,10 +669,10 @@
 
    ### Day 124: may 20, 2021
 
-**Today's Progress**:   Learning Introduction of dot net<br>
+**Today's Progress**: Introduction of dot net<br>
 
 
 
    ### Day 125: may 23, 2021
 
-**Today's Progress**:   Learning Introduction of dot net<br>
+**Today's Progress**: Introduction of dot net<br>
