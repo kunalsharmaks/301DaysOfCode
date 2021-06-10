@@ -750,6 +750,6 @@
 
 
 
-   ### Day 137: june 0, 2021
+   ### Day 137: june 10, 2021
 
 **Today's Progress**: Introduction of C# <br>
