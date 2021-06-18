@@ -783,3 +783,9 @@
    ### Day 142: june 15, 2021
 
 **Today's Progress**: Introduction of C# <br>
+
+
+
+   ### Day 143: june 16, 2021
+
+**Today's Progress**: Introduction of C# <br>
