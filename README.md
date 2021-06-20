@@ -792,6 +792,6 @@
 
 
 
-   ### Day 14: june 28, 2021
+   ### Day 14: june 20, 2021
 
 **Today's Progress**: Introduction of C# <br>
