@@ -860,4 +860,4 @@
 
    ### Day 155: june 30, 2021
 
-**Today's Progress**: Introduction of .ASP <br>
+**Today's Progress**: Learning Visual Studio GUI <br>
