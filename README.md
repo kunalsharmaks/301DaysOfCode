@@ -864,6 +864,6 @@
 
 
 
-   ### Day 156: june 30, 2021
+   ### Day 156: july 30, 2021
 
 **Today's Progress**: Learning Visual Studio GUI <br>
