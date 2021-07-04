@@ -882,6 +882,6 @@
 
 
 
-   ### Day 159: july 03, 2021
+   ### Day 159: july 04, 2021
 
 **Today's Progress**: Learning Visual Studio GUI <br>
