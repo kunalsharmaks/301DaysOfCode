@@ -860,7 +860,7 @@
 
    ### Day 155: june 30, 2021
 
-**Today's Progress**: Learning Visual Studio GUI <br>
+**Today's Progress**: Learning Visual Studio IDE <br>
 
 
 
