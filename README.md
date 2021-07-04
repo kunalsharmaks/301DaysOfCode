@@ -884,4 +884,4 @@
 
    ### Day 159: july 04, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE<br>
+**Today's Progress**: Learning Visual Studio  IDE <br>
