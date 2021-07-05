@@ -28,6 +28,7 @@
 **Today's Progress**: After long vacation back to the front end development  create registration page<br>
                       Link for the Repo. - https://github.com/kunalsharmaks/301DaysOfCode/tree/main/sign
                       
+
 ### Day 6: Nov 22, 2020
 
 **Today's Progress**: Create resetpassword HTML CSSS page<br>
