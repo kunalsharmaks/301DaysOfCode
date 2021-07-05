@@ -32,7 +32,8 @@
 
 **Today's Progress**: Create resetpassword HTML CSSS page<br>
                       Link for the Repo. - https://github.com/kunalsharmaks/301DaysOfCode/tree/main/reset
-                      
+      
+      
  ### Day 7: Nov 24, 2020
 
 **Today's Progress**: Creating self resume in HTML CSS<br> Design resume layout<br>
