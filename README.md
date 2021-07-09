@@ -923,6 +923,6 @@
 
 
 
-   ### Day 165: july 09, 2021
+   ### Day 165: july 109, 2021
 
 **Today's Progress**: Learning Visual Studio  IDE <br>
