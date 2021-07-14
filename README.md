@@ -947,7 +947,7 @@
 
 
 
-   ### Day 167: july 12, 2021
+   ### Day 169: july 12, 2021
 
 **Today's Progress**: Learning Visual Studio  IDE <br>
 
