@@ -944,23 +944,20 @@
 
    ### Day 170: july 15, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 171: july 16, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 172: july 17, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 173: july 18, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
+**Today's Progress**: Learning Python Django <br>
 
