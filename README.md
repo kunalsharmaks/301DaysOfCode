@@ -877,80 +877,69 @@
 
    ### Day 157: july 02, 2021
 
-**Today's Progress**: Learning Visual Studio IDE <br>
+**Today's Progress**: Learning ADO .NET <br>
 
 
 
    ### Day 158: july 03, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
+**Today's Progress**: Learning ADO .NET <br>
 
 
 
    ### Day 159: july 04, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 160: july 05, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 161: july 06, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 162: july 07, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 163: july 08, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 164: july 09, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 165: july 10, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 166: july 11, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 167: july 12, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 168: july 13, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 169: july 14, 2021
 
-**Today's Progress**: Learning Visual Studio  IDE <br>
-
+**Today's Progress**: Learning ADO .NET <br>
 
 
    ### Day 170: july 15, 2021
