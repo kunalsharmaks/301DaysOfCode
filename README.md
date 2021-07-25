@@ -4,7 +4,7 @@
  
 ###start    
 
-
+ 
 ### Day 1: Nov 4, 2020
 
 **Today's Progress**: Creating basic login page using HTML<br>
