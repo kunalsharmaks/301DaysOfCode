@@ -31,7 +31,7 @@
                       Link for the Repo. - https://github.com/kunalsharmaks/301DaysOfCode/tree/main/sign
                        
  
-### Day 6: Nov 22, 2020
+### Day 6: Nov 22, 2020 
 
 **Today's Progress**: Create resetpassword HTML CSSS page<br>
                       Link for the Repo. - https://github.com/kunalsharmaks/301DaysOfCode/tree/main/reset
