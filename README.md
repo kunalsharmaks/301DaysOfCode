@@ -1021,3 +1021,8 @@
 
 **Today's Progress**: Learning Python Django <br>
 
+
+   ### Day 185: july 30, 2021
+
+**Today's Progress**: Learning Python Django <br>
+
