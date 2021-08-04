@@ -1037,7 +1037,7 @@
 **Today's Progress**: Learning Python Django <br>
 
 
-   ### Day 189: August 03, 2021
+   ### Day 19: August 03, 2021
 
 **Today's Progress**: Learning Python Django <br>
 
