@@ -1066,3 +1066,7 @@
 
 **Today's Progress**: Learning Python Django <br>
 
+
+   ### Day 195: August 26, 2021
+
+**Today's Progress**: Solving aptitude question<br>
