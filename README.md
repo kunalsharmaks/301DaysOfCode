@@ -1076,3 +1076,9 @@
    ### Day 196: September 02, 2021
 
 **Today's Progress**: Solving aptitude question<br>
+
+
+
+   ### Day 197: September 03, 2021
+
+**Today's Progress**: Solving aptitude question<br>
