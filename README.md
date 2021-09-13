@@ -1118,3 +1118,9 @@
    ### Day 203: September 12, 2021
 
 **Today's Progress**: Solving Competative coding questions<br>
+
+
+
+   ### Day 204: September 13, 2021
+
+**Today's Progress**: Solving Competative coding questions<br>
