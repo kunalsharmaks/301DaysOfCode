@@ -1178,3 +1178,9 @@
    ### Day 213: September 27, 2021
 
 **Today's Progress**: Solving Competative coding questions<br>
+
+
+
+   ### Day 214: September 29, 2021
+
+**Today's Progress**: Solving Competative coding questions<br>
