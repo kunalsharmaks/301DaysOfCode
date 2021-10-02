@@ -1191,3 +1191,10 @@
    ### Day 215: September 30, 2021
 
 **Today's Progress**: Solving Competative coding questions<br>
+
+
+
+
+   ### Day 216: October 02, 2021
+
+**Today's Progress**: Solving Competative coding questions<br>
