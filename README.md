@@ -1204,3 +1204,9 @@
    ### Day 217: October 04, 2021
 
 **Today's Progress**: Solving Competative coding questions<br>
+
+
+
+   ### Day 218: October 05, 2021
+
+**Today's Progress**: Solving Competative coding questions<br>
