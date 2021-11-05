@@ -1240,3 +1240,9 @@
    ### Day 223: October 19, 2021
 
 **Today's Progress**: Solving Competative coding questions<br>
+
+
+
+   ### Day 224: November 05, 2021
+
+**Today's Progress**: Start learning AngularJS<br>
