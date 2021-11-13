@@ -1269,3 +1269,8 @@
    ### Day 228: November 12, 2021
 
 **Today's Progress**: Start learning AngularJS<br>
+
+
+   ### Day 229: November 13, 2021
+
+**Today's Progress**: Start learning AngularJS<br>
