@@ -1324,3 +1324,8 @@
    ### Day 239: January 19, 2022
 
 **Today's Progress**: Start learning NodeJS <br>
+
+
+   ### Day 240: January 21, 2022
+
+**Today's Progress**: Start learning NodeJS <br>
