@@ -1354,3 +1354,8 @@
    ### Day 245: February 16, 2022
 
 **Today's Progress**: Start learning NodeJS <br>
+
+
+   ### Day 246: February 17, 2022
+
+**Today's Progress**: Start learning NodeJS <br>
