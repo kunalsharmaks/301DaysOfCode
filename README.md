@@ -1439,3 +1439,8 @@
    ### Day 262: March 12, 2022
 
 **Today's Progress**: Start learning NodeJS <br>
+
+
+   ### Day 263: April 01, 2022
+
+**Today's Progress**: Start learning AngularJS <br>
