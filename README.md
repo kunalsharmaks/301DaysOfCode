@@ -1454,3 +1454,8 @@
    ### Day 265: April 25, 2022
 
 **Today's Progress**: Start learning AngularJS <br>
+
+
+   ### Day 266: April 26, 2022
+
+**Today's Progress**: Start learning AngularJS <br>
